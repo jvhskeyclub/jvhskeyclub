@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Key Club",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,8 +40,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 234,
-    "versionPublish": "4.9.7",
+    "uniqCompNum": 233,
+    "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png"
